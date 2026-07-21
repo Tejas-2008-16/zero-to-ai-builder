@@ -57,8 +57,8 @@ ai-learning-journey/
 | 1.8 | **[Slicing](https://youtu.be/L0j7JkFmYDI?si=pokIqIHX_f7nyTlE)** — Ep. #10–11 (same playlist) | `.upper()`, `.lower()`, `.split()`, `.replace()`, and slicing strings with `[start:end]` | Take a sentence from the user and print it reversed |
 | 1.9 | **[Functions](https://youtu.be/1OuRhD7FmTA?si=xTLnFrD2Pd922_ax)** — Ep. #12 (same playlist) | Defining reusable blocks of code with `def`, parameters, and `return` | Write a `is_even(number)` function that returns `True`/`False` |
 | 2.0 | **[Reading Text Files](https://youtu.be/0EgSo7hsRWM?si=drFARgoXdpLewCbo)** — Ep. #13–14 (same playlist) | `open()`, reading a file's content, and appending new lines to it | Write a script that saves whatever the user types into a `notes.txt` file |
-| 2.0 | **[Writing Text Files](https://youtu.be/W0fPZQBFpVE?si=3FRumg-8A0Fz8DUU)** — Ep. #13–14 (same playlist) | `open()`, reading a file's content, and appending new lines to it | Write a script that saves whatever the user types into a `notes.txt` file |
-| 2.1 | **[Python Classes and Objects](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)**<br>Corey Schafer · ~1 hr, can split over 2 days | Classes, `__init__`, instance vs. class attributes — the exact pattern you'll reuse to structure your AI app (e.g. an `EmailWriter` class) | Write a `Note` class with `add_note()` and `delete_note()` methods |
+| 2.1 | **[Writing Text Files](https://youtu.be/W0fPZQBFpVE?si=3FRumg-8A0Fz8DUU)** — Ep. #13–14 (same playlist) | `open()`, reading a file's content, and appending new lines to it | Write a script that saves whatever the user types into a `notes.txt` file |
+| 2.2 | **[Python Classes and Objects](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)**<br>Corey Schafer · ~1 hr, can split over 2 days | Classes, `__init__`, instance vs. class attributes — the exact pattern you'll reuse to structure your AI app (e.g. an `EmailWriter` class) | Write a `Note` class with `add_note()` and `delete_note()` methods |
  
 > 💡 To find any episode number in the playlist above, just open it once — YouTube keeps every episode in order, so Ep. #6 is always the 6th video in the list.
  
