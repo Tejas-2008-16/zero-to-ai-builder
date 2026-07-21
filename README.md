@@ -48,7 +48,7 @@ ai-learning-journey/
 | # | 🎬 Lesson (single concept, one short video) | 📝 Summary | 💻 Practice |
 |---|---|---|---|
 | 1.1 | **[Variables & Data Types](https://www.youtube.com/watch?v=OFrLs22MDAw)** — Ep. #1 | What a variable is, and Python's core types: strings, ints, floats, booleans | Store your name, age, and favorite color in variables and print them together |
-| 1.2 | **Basic Operators & Input** — Ep. #2 (same playlist) | Math operators (`+ - * /`), and `input()` to get text from the user | Write a script that asks for two numbers and prints their sum, difference, and product |
+| 1.2 | **[Basic Operators & Input](https://youtu.be/QQrcd_62VWM?si=X8XBPh8EHOHvCLR6)** — Ep. #2 (same playlist) | Math operators (`+ - * /`), and `input()` to get text from the user | Write a script that asks for two numbers and prints their sum, difference, and product |
 | 1.3 | **Conditions, If/Elif/Else** — Ep. #3–5 (same playlist) | Comparison operators, `if/elif/else`, and nested conditions | Write a script that takes an age and prints "kid," "teen," or "adult" |
 | 1.4 | **For Loops & While Loops** — Ep. #6–7 (same playlist) | Repeating code with `for` and `while`, and when to use which | Print the multiplication table of a number the user enters |
 | 1.5 | **Lists & Tuples** — Ep. #8–9 (same playlist) | Storing multiple values, indexing, looping through a list | Store 5 movie names in a list and print them one per line, numbered |
